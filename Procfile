@@ -1,1 +1,1 @@
-web: myfirstblog gettingstarted.wsgi --log-file -
+web: myfirstblog fast-oasis-93873.wsgi --log-file -
