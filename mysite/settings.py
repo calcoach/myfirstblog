@@ -25,7 +25,7 @@ SECRET_KEY = '3h1z!zl9!jb_d%j-%i-*n4_!3p5^0ti!^l7t7zky-9mktl-)(r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fast-oasis-93873.herokuapp.com',
+ALLOWED_HOSTS = ['lakaty.herokuapp.com',
                  '127.0.0.1',]
 
 
