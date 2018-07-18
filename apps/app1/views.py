@@ -1,8 +1,7 @@
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 
 from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse('Darly es bobita!!!!!!'
-                        'ffffff')
+    return render(request, 'index.html')
