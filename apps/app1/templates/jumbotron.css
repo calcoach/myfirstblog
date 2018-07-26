@@ -1,0 +1,18 @@
+body {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #D5F5E3;
+}
+
+.area-post {
+  position: absolute;
+  left: 105px;
+  top: 150px;
+  width: 960px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #FFFFFF;
+
+}
+
+
