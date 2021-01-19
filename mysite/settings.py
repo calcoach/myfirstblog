@@ -25,7 +25,7 @@ SECRET_KEY = '3h1z!zl9!jb_d%j-%i-*n4_!3p5^0ti!^l7t7zky-9mktl-)(r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['carimodx.herokuapp.com',
+ALLOWED_HOSTS = ['tusalario.herokuapp.com',
                  '127.0.0.1',]
 
 
@@ -117,7 +117,7 @@ USE_TZ = True
 
 
 # Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/1.11/howto/static-files/
+    # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
 STATIC_ROOT = 'staticfiles'
