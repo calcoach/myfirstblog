@@ -5,3 +5,6 @@ from django.http import HttpResponse
 
 def index(request):
     return render(request, 'index.html')
+
+def privacypolicy(request):
+    return render(request, 'privacypolicy.html')
